@@ -17,4 +17,4 @@ To start Mongo command line interface:
     
  
  
-(base) C:\Users\Administrador\Documents\mongodb-win32-x86_64-2012plus-4.2.2\bin>mongod.exe --dbpath="C:\Users\Administrador\Documents\mongo_data"
+(base) C:\Users\<user>\Documents\mongodb-win32-x86_64-2012plus-4.2.2\bin>mongod.exe --dbpath="C:\Users\<user>\Documents\mongo_data"
